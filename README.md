@@ -1,4 +1,4 @@
-# Makine-renmesi-projeleri
+# Makine-öğrenmesi-projeleri
 
 Bu proje, (https://www.udemy.com/course/python-ile-makine-ogrenimi/learn/lecture/27661934#overview) eğitimi kapsamında geliştirilmiştir. 
 Projede, temel veri analizi ve makine öğrenmesi teknikleri kullanılarak belirli bir veri seti üzerinde tahminleme ve sınıflandırma modelleri uygulanmıştır.
